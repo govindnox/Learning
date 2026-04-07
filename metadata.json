@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat Agent",
+  "description": "A full-featured chatbot agent powered by Gemini and LangChain, featuring short-term and long-term memory.",
+  "requestFramePermissions": []
+}
